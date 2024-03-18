@@ -2,7 +2,7 @@
 title: 'Homepage Hero'
 menu: Top
 hero_classes: parallax text-light
-hero_image: none.jpg
+hero_image: background.jpg
 ---
 
 # Bienvenue sur notre site!
