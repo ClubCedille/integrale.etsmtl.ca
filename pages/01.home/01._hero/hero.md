@@ -2,11 +2,11 @@
 title: 'Homepage Hero'
 menu: Top
 hero_classes: parallax text-light
-hero_image: background.jpg
+hero_image: none.jpg
 ---
 
-# Say Hello to Grav
-## Fast, Simple, Powerful...
+# Bienvenue sur notre site!
+## Intégrale ÉTS
 
 Grav is a modern flat-file CMS system that focuses on making web development fun again.
 
